@@ -33,6 +33,9 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="alt f8" />
   </action>
