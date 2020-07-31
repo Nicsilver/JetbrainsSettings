@@ -8,6 +8,11 @@
   </action>
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl numpad5" />
+  </action>
   <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl divide" />
