@@ -13,22 +13,15 @@
   </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
-  <action id="MoveLineDown">
-    <keyboard-shortcut first-keystroke="shift alt down" />
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
-  <action id="MoveLineUp">
-    <keyboard-shortcut first-keystroke="shift alt up" />
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
   <action id="Unwrap" />
-  <action id="UpdateRunningApplication" />
-  <action id="android.deploy.ApplyChanges">
-    <keyboard-shortcut first-keystroke="ctrl f10" />
-  </action>
-  <action id="android.deploy.CodeSwap">
-    <keyboard-shortcut first-keystroke="ctrl alt f10" />
-  </action>
 </keymap>
