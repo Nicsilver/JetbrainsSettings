@@ -60,6 +60,9 @@
   <action id="ShowSearchHistory" />
   <action id="Terminal.MoveToolWindowTabLeft" />
   <action id="Terminal.MoveToolWindowTabRight" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="shift ctrl f11" />
+  </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="shift ctrl #10000c5" />
   </action>
