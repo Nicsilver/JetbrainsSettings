@@ -33,14 +33,39 @@
   </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
+  <action id="MoveElementLeft" />
+  <action id="MoveElementRight" />
   <action id="MoveStatementDown">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
   <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift ctrl #10000d8" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl #10000d8" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt right" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="ctrl #10000c6" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt left" />
+  </action>
+  <action id="RecentChangedFiles">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="RecentFiles" />
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
+  <action id="Terminal.MoveToolWindowTabLeft" />
+  <action id="Terminal.MoveToolWindowTabRight" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="shift ctrl f11" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="shift ctrl #10000c5" />
+  </action>
   <action id="Unwrap" />
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
