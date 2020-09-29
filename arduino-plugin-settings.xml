@@ -1,0 +1,12 @@
+<application>
+  <component name="Arduino Support Settings">
+    <boardCpuMap>
+      <entry key="nano" value="" />
+      <entry key="one" value="" />
+      <entry key="uno" value="" />
+      <entry key="yun" value="" />
+    </boardCpuMap>
+    <option name="boardId" value="one" />
+    <option name="boardName" value="Linino One" />
+  </component>
+</application>
