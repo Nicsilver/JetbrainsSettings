@@ -4,6 +4,7 @@
       <toolchain name="Visual Studio" toolSetKind="MSVC" toolSetPath="C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise" debuggerKind="BUNDLED_LLDB">
         <toolSetOption type="msvc.arch" value="amd64" />
       </toolchain>
+      <toolchain name="MinGW" toolSetKind="MINGW" toolSetPath="C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32" debuggerKind="CUSTOM_GDB" customGDBPath="C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\gdb.exe" />
     </toolchains>
   </component>
 </application>
