@@ -14,12 +14,8 @@
           <option name="url" value="https://github.com/nsnave/java-media-keys.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/shamwow/LineJumper.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Programming\Git" />
+    <option name="cloneParentDir" value="C:\Programming\GitLab\PCIO\PCIO-Server\WindowsKeyboard" />
   </component>
 </application>
