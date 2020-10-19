@@ -1,18 +1,4 @@
 <application>
-  <component name="CodeInsightSettings">
-    <option name="completionCaseSensitive" value="2" />
-    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
-  </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="16" />
-    <option name="FONT_FAMILY" value="Consolas" />
-  </component>
-  <component name="EditorSettings">
-    <option name="SHOW_BREADCRUMBS" value="false" />
-  </component>
-  <component name="JavaCodeFoldingSettings">
-    <option name="collapseAccessors" value="true" />
-  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
   </component>
