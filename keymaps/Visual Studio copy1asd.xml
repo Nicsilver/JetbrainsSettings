@@ -49,12 +49,16 @@
   <action id="MethodUp" />
   <action id="MoveElementLeft" />
   <action id="MoveElementRight" />
-  <action id="MoveStatementDown">
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
-  <action id="MoveStatementUp">
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift ctrl #10000d8" />
   </action>
