@@ -1,0 +1,9 @@
+<application>
+  <component name="RainbowSettings">
+    <option name="customNotifyShowed" value="true" />
+    <option name="doNOTRainbowifyBracketsWithoutContent" value="true" />
+    <option name="doNOTRainbowifyTheFirstLevel" value="true" />
+    <option name="numberOfColors" value="8" />
+    <option name="version" value="5.35" />
+  </component>
+</application>
