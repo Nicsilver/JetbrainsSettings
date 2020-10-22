@@ -15,6 +15,9 @@
   </action>
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="alt f9" />
+  </action>
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
   <action id="Flutter.Toolbar.ReloadAllAction">
