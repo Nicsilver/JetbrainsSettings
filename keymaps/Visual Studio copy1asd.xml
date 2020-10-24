@@ -1,4 +1,7 @@
 <keymap version="1" name="Visual Studio copy1asd" parent="Visual Studio">
+  <action id="ActivateAntToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="CloseContent">
