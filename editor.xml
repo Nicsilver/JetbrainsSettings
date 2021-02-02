@@ -39,6 +39,7 @@
     </option>
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="SHOW_NOTIFICATION_AFTER_REFORMAT_CODE_ACTION" value="false" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\bNotImplementedException\b" />
