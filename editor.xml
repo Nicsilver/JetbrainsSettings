@@ -1,8 +1,6 @@
 <application>
   <component name="CodeInsightSettings">
-    <option name="completionCaseSensitive" value="2" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
-    <option name="INSERT_BRACE_ON_ENTER" value="false" />
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
@@ -41,6 +39,7 @@
     </option>
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="SHOW_NOTIFICATION_AFTER_REFORMAT_CODE_ACTION" value="false" />
   </component>
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
