@@ -1,0 +1,20 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Yesting">
+      <shortuct text="ENTER" />
+      <action id="ShowSettings" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="55:0">7</typing>
+      <shortuct text="ENTER" />
+      <action id="EditorEnter" />
+      <action id="SearchEverywhere" />
+      <shortuct text="ENTER" />
+      <shortuct text="DOWN" />
+      <action id="PlaySavedMacrosAction" />
+      <shortuct text="ENTER" />
+      <shortuct text="ESCAPE" />
+      <action id="SearchEverywhere" />
+      <shortuct text="ENTER" />
+    </macro>
+  </component>
+</application>
