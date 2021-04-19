@@ -1,4 +1,4 @@
-<keymap version="1" name="Visual Studio copy1asd" parent="Visual Studio">
+<keymap version="1" name="Visual Studio Legacy Custom" parent="Visual Studio Legacy">
   <action id="ActivateAntToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
@@ -38,12 +38,14 @@
   <action id="MethodUp" />
   <action id="MoveElementLeft" />
   <action id="MoveElementRight" />
-  <action id="MoveStatementDown">
+  <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
-  <action id="MoveStatementUp">
+  <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift ctrl #10000d8" />
   </action>
