@@ -4,6 +4,7 @@
     <option name="doNOTRainbowifyBigFiles" value="false" />
     <option name="doNOTRainbowifyBracketsWithoutContent" value="true" />
     <option name="doNOTRainbowifyTheFirstLevel" value="true" />
+    <option name="showRainbowIndentGuides" value="false" />
     <option name="version" value="6.17" />
   </component>
 </application>
