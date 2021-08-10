@@ -18,6 +18,7 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl #10000bd" />
   </action>
+  <action id="InspectThis" />
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="MoveLineDown">
