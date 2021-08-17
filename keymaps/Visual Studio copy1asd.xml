@@ -21,6 +21,7 @@
     <keyboard-shortcut first-keystroke="ctrl dead_acute" />
   </action>
   <action id="InspectThis" />
+  <action id="IntroduceConstant" />
   <action id="JumpDown12">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
@@ -50,6 +51,9 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift ctrl #10000d8" />
   </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl #10000d8" />
     <keyboard-shortcut first-keystroke="shift ctrl alt right" />
@@ -66,6 +70,7 @@
   <action id="ShowSearchHistory" />
   <action id="Terminal.MoveToolWindowTabLeft" />
   <action id="Terminal.MoveToolWindowTabRight" />
+  <action id="TodoViewGroupByFlattenPackage" />
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="shift ctrl f11" />
   </action>
