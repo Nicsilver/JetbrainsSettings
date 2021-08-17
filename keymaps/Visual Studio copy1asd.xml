@@ -18,6 +18,7 @@
   <action id="EditorLookupUp" />
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
+  <action id="EditorUp" />
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
     <keyboard-shortcut first-keystroke="ctrl dead_acute" />
@@ -27,14 +28,23 @@
   <action id="JumpDown 3">
     <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
+  <action id="JumpDown 5">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
   <action id="JumpDown12">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="JumpDownSelect 3">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
+  <action id="JumpDownSelect 5">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
   <action id="JumpUp 3">
     <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
+  <action id="JumpUp 5">
+    <keyboard-shortcut first-keystroke="up" />
   </action>
   <action id="JumpUp12">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
@@ -42,6 +52,10 @@
   <action id="JumpUpSelect 3">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
+  <action id="JumpUpSelect 5">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="List-selectPreviousRow" />
   <action id="MethodDown" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
@@ -59,6 +73,7 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift ctrl #10000d8" />
   </action>
+  <action id="NavBar-selectUp" />
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
@@ -66,6 +81,7 @@
     <keyboard-shortcut first-keystroke="ctrl #10000d8" />
     <keyboard-shortcut first-keystroke="shift ctrl alt right" />
   </action>
+  <action id="PopupMenu-selectPrevious" />
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="ctrl #10000c6" />
     <keyboard-shortcut first-keystroke="shift ctrl alt left" />
@@ -84,12 +100,14 @@
   </action>
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
+  <action id="Table-selectPreviousRow" />
   <action id="Terminal.MoveToolWindowTabLeft" />
   <action id="Terminal.MoveToolWindowTabRight" />
   <action id="TodoViewGroupByFlattenPackage" />
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="shift ctrl f11" />
   </action>
+  <action id="Tree-selectPrevious" />
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="shift ctrl #10000c5" />
   </action>
