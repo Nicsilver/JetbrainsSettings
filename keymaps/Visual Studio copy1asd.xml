@@ -49,7 +49,6 @@
     <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
   <action id="JumpUp 5">
-    <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
   <action id="JumpUp12">
