@@ -3,7 +3,6 @@
     <option name="jumpCaretActions">
       <list>
         <option value="5" />
-        <option value="10" />
       </list>
     </option>
   </component>
