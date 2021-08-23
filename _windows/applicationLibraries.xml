@@ -2,14 +2,14 @@
   <component name="libraryTable">
     <library name="jna-5.6.0">
       <CLASSES>
-        <root url="jar://$USER_HOME$/Downloads/jna-5.6.0.jar!/" />
+        <root url="jar://C:/Programming/Git/PCIO-Server/jna-5.8.0.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
     </library>
     <library name="jna-platform-5.6.0">
       <CLASSES>
-        <root url="jar://$USER_HOME$/Downloads/jna-platform-5.6.0.jar!/" />
+        <root url="jar://C:/Programming/Git/PCIO-Server/jna-5.8.0.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />

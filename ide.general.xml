@@ -1,6 +1,8 @@
 <application>
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
+    <option name="confirmOpenNewProject2" value="0" />
+    <option name="inactiveTimeout" value="5" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="showTipsOnStartup" value="false" />
   </component>
@@ -16,6 +18,7 @@
     <entry key="ide.tooltip.showAllSeverities" value="true" />
     <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
     <entry key="use.tabbed.welcome.screen" value="false" />
-    <entry key="ide.new.project.model" value="false" />
+    <entry key="external.system.auto.import.disabled" value="true" />
+    <entry key="vcs.enable.add.ignored.directories.to.exclude" value="false" />
   </component>
 </application>
