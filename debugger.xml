@@ -400,9 +400,14 @@
     <data-views />
     <general />
     <debuggers>
-      <debugger id="ObjectiveC">
+      <debugger id="dotnet_debugger">
         <configuration>
-          <option name="VALUES_FILTER_ENABLED" value="false" />
+          <option name="breakOnUserUnhandledExceptions" value="true" />
+        </configuration>
+      </debugger>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
         </configuration>
       </debugger>
     </debuggers>
