@@ -1,21 +1,18 @@
 <application>
   <component name="Arduino Support Settings">
-    <option name="baudRate" value="115200" />
+    <option name="baudRate" value="9600" />
     <boardCpuMap>
       <entry key="nano" value="atmega328" />
       <entry key="one" value="" />
       <entry key="uno" value="" />
+      <entry key="unowifi" value="" />
       <entry key="yun" value="" />
     </boardCpuMap>
-    <option name="boardId" value="nano" />
-    <option name="boardName" value="Arduino Nano" />
-    <option name="cpuId" value="atmega328" />
-    <option name="cpuName" value="ATmega328P" />
+    <option name="boardId" value="unowifi" />
+    <option name="boardName" value="Arduino Uno WiFi" />
     <option name="port" value="COM3" />
     <option name="portHistory">
       <option value="COM3" />
     </option>
-    <option name="programmerId" value="arduinoisp" />
-    <option name="programmerName" value="ArduinoISP" />
   </component>
 </application>
