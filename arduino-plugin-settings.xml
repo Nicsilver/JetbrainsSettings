@@ -15,7 +15,5 @@
     <option name="portHistory">
       <option value="COM3" />
     </option>
-    <option name="programmerId" value="arduinoisp" />
-    <option name="programmerName" value="ArduinoISP" />
   </component>
 </application>
