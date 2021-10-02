@@ -16,5 +16,9 @@
       <action id="SearchEverywhere" />
       <shortuct text="ENTER" />
     </macro>
+    <macro name="Reformat and save">
+      <action id="ReformatCode" />
+      <action id="SaveAll" />
+    </macro>
   </component>
 </application>
