@@ -105,4 +105,7 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
+  <action id="one.util.ideaplugin.screenshoter.SaveImageAction">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+  </action>
 </keymap>
