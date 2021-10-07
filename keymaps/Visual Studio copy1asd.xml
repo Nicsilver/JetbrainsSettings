@@ -16,6 +16,11 @@
   </action>
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+    <keyboard-shortcut first-keystroke="ctrl plus" />
+  </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="ctrl dead_acute" />
   </action>
