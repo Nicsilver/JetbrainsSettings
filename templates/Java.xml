@@ -11,4 +11,20 @@
     <variable name="EXPR_COPY" expression="escapeString(EXPR)" defaultValue="" alwaysStopAt="false" />
     <context />
   </template>
+  <template name="propBindable" value="@Bindable&#10;public $TYPE$ get$PROPNAME$() { return $PROP$; }" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PROPNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PROP" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="setBindable" value="public void set$PROPNAME$($TYPE$ ) { return $PROP$; }" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="PROPNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PROP" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
