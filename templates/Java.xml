@@ -11,7 +11,7 @@
     <variable name="EXPR_COPY" expression="escapeString(EXPR)" defaultValue="" alwaysStopAt="false" />
     <context />
   </template>
-  <template name="propBindable" value="@Bindable&#10;public $TYPE$ get$PROPNAME$() { return $PROP$; }" toReformat="false" toShortenFQNames="true">
+  <template name="propBindable" value="@Bindable&#10;public $TYPE$ get$PROPNAME$() { return $PROP$; }" description="" toReformat="false" toShortenFQNames="true">
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PROPNAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PROP" expression="" defaultValue="" alwaysStopAt="true" />
