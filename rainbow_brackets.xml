@@ -4,11 +4,6 @@
     <option name="doNOTRainbowifyBigFiles" value="false" />
     <option name="doNOTRainbowifyBracketsWithoutContent" value="true" />
     <option name="doNOTRainbowifyTheFirstLevel" value="true" />
-    <option name="enableRainbowAngleBrackets" value="false" />
-    <option name="enableRainbowRoundBrackets" value="false" />
-    <option name="enableRainbowSquareBrackets" value="false" />
-    <option name="enableRainbowSquigglyBrackets" value="false" />
-    <option name="rainbowEnabled" value="false" />
     <option name="showRainbowIndentGuides" value="false" />
     <option name="version" value="6.21" />
   </component>
