@@ -8,6 +8,7 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="Console.TableResult.SetNull" />
   <action id="EditorDeleteToLineEnd">
     <keyboard-shortcut first-keystroke="shift ctrl delete" />
   </action>
@@ -16,10 +17,12 @@
   </action>
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
+  <action id="GotoFile" />
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
     <keyboard-shortcut first-keystroke="ctrl dead_acute" />
   </action>
+  <action id="Inline" />
   <action id="JumpDown12">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
@@ -52,6 +55,16 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift ctrl #10000d8" />
   </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="NewElementSamePlace">
+    <keyboard-shortcut first-keystroke="ctrl alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="NewRiderProject" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl #10000d8" />
     <keyboard-shortcut first-keystroke="shift ctrl alt right" />
