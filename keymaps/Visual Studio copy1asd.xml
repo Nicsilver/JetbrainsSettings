@@ -90,6 +90,11 @@
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="RecentFiles" />
+  <action id="RiderUnitTestCoverSolutionAction">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="k" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="ctrl k" />
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
   <action id="SaveAll" />
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
