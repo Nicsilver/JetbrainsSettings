@@ -1,0 +1,40 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="ActivateCommitToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt clear" />
+  </action>
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="numpad5" />
+  </action>
+  <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl #10000bd" />
+  </action>
+  <action id="InspectThis" />
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="ShowContent" />
+  <action id="UpdateRunningApplication" />
+  <action id="XDebugger.MoveWatchDown" />
+  <action id="XDebugger.MoveWatchUp" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+</keymap>
