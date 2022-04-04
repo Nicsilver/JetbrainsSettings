@@ -46,9 +46,6 @@
   <action id="JumpUpSelect 5">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
-  <action id="Macro.Reformat and save">
-    <keyboard-shortcut first-keystroke="ctrl s" />
-  </action>
   <action id="MethodDown" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
@@ -78,7 +75,6 @@
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="RecentFiles" />
-  <action id="SaveAll" />
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
