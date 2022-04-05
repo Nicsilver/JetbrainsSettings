@@ -8,6 +8,8 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.PreviousPage" />
   <action id="EditorDeleteToLineEnd">
     <keyboard-shortcut first-keystroke="shift ctrl delete" />
   </action>
@@ -22,11 +24,11 @@
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
     <keyboard-shortcut first-keystroke="ctrl dead_acute" />
   </action>
+  <action id="JumpDown 10">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
   <action id="JumpDown 5">
     <keyboard-shortcut first-keystroke="ctrl down" />
-  </action>
-  <action id="JumpDown12">
-    <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="JumpDown5">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
@@ -34,11 +36,11 @@
   <action id="JumpDownSelect 5">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
+  <action id="JumpUp 10">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
   <action id="JumpUp 5">
     <keyboard-shortcut first-keystroke="ctrl up" />
-  </action>
-  <action id="JumpUp12">
-    <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="JumpUp5">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
@@ -63,6 +65,7 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift ctrl #10000d8" />
   </action>
+  <action id="NextOccurence" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl #10000d8" />
     <keyboard-shortcut first-keystroke="shift ctrl alt right" />
@@ -71,6 +74,7 @@
     <keyboard-shortcut first-keystroke="ctrl #10000c6" />
     <keyboard-shortcut first-keystroke="shift ctrl alt left" />
   </action>
+  <action id="PreviousOccurence" />
   <action id="RecentChangedFiles">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
