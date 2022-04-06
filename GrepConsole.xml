@@ -6,6 +6,15 @@
           <option name="models">
             <list>
               <GrepModel>
+                <option name="expression" value="userId" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
                 <option name="expression" value="" />
               </GrepModel>
             </list>
@@ -15,7 +24,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="userId" />
+                <option name="expression" value="prepareNameAEmailFilters" />
               </GrepModel>
             </list>
           </option>
