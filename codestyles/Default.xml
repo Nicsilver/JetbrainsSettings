@@ -16,10 +16,6 @@
     <option name="RIGHT_MARGIN" value="100" />
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
-    <option name="BRACE_STYLE" value="2" />
-    <option name="CLASS_BRACE_STYLE" value="2" />
-    <option name="METHOD_BRACE_STYLE" value="2" />
-    <option name="LAMBDA_BRACE_STYLE" value="2" />
     <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_LAMBDAS_IN_ONE_LINE" value="true" />
