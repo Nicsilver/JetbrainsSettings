@@ -29,6 +29,18 @@
             </list>
           </option>
         </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="prepareNameAEmailFilters" />
+              </GrepModel>
+              <GrepModel>
+                <option name="expression" value="findIdsByName" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
       </list>
     </option>
     <option name="profiles">
