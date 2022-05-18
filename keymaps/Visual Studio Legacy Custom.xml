@@ -113,9 +113,6 @@
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="shift ctrl f11" />
   </action>
-  <action id="Unsplit">
-    <keyboard-shortcut first-keystroke="shift ctrl #10000c5" />
-  </action>
   <action id="Unwrap" />
   <action id="UpdateRunningApplication" />
   <action id="Vcs.UpdateProject" />
@@ -132,5 +129,8 @@
   <action id="copilot.cyclePrevInlays">
     <keyboard-shortcut first-keystroke="alt open_bracket" />
     <keyboard-shortcut first-keystroke="alt #10000c6" />
+  </action>
+  <action id="org.martica.equality.Equalize">
+    <keyboard-shortcut first-keystroke="shift ctrl #10000c5" />
   </action>
 </keymap>
