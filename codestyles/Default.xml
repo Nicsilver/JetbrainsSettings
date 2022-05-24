@@ -1,6 +1,7 @@
 <code_scheme name="Default" version="173">
   <JetCodeStyleSettings>
     <option name="LBRACE_ON_NEXT_LINE" value="true" />
+    <option name="ALLOW_TRAILING_COMMA" value="true" />
   </JetCodeStyleSettings>
   <Objective-C>
     <option name="NAMESPACE_BRACE_PLACEMENT" value="2" />
