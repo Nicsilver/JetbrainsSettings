@@ -6,6 +6,9 @@
   <action id="ActivateAntToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
+  <action id="ActivateCoverageToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl less" />
+  </action>
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="alt 7" />
     <keyboard-shortcut first-keystroke="alt s" />
