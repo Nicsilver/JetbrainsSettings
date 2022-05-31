@@ -7,6 +7,7 @@
     <option name="LBRACE_ON_NEXT_LINE" value="true" />
     <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="2147483647" />
     <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="2147483647" />
+    <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
   </JetCodeStyleSettings>
   <Objective-C>
     <option name="NAMESPACE_BRACE_PLACEMENT" value="2" />
@@ -20,8 +21,6 @@
     <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="kotlin">
-    <option name="WHILE_ON_NEW_LINE" value="true" />
-    <option name="CATCH_ON_NEW_LINE" value="true" />
-    <option name="FINALLY_ON_NEW_LINE" value="true" />
+    <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
   </codeStyleSettings>
 </code_scheme>
