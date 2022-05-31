@@ -7,7 +7,6 @@
     <option name="LBRACE_ON_NEXT_LINE" value="true" />
     <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="2147483647" />
     <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="2147483647" />
-    <option name="ALLOW_TRAILING_COMMA" value="true" />
   </JetCodeStyleSettings>
   <Objective-C>
     <option name="NAMESPACE_BRACE_PLACEMENT" value="2" />
