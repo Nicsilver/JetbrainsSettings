@@ -6,6 +6,13 @@
   <action id="ActivateAntToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
+  <action id="ActivateCoverageToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl less" />
+  </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt 7" />
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="CloseAllEditors">
@@ -13,7 +20,7 @@
   </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
-    <keyboard-shortcut first-keystroke="ctrl r" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
@@ -77,10 +84,9 @@
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
-  <action id="MoveTabRight">
-    <keyboard-shortcut first-keystroke="shift ctrl #10000d8" />
+  <action id="NextOccurence">
+    <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
-  <action id="NextOccurence" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl #10000d8" />
     <keyboard-shortcut first-keystroke="shift ctrl alt right" />
@@ -90,10 +96,18 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt left" />
   </action>
   <action id="PreviousOccurence" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
   <action id="RecentChangedFiles">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="RecentFiles" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
@@ -102,16 +116,17 @@
   </action>
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift ctrl #10000d8" />
+  </action>
   <action id="Terminal.MoveToolWindowTabLeft" />
   <action id="Terminal.MoveToolWindowTabRight" />
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="shift ctrl f11" />
   </action>
-  <action id="Unsplit">
-    <keyboard-shortcut first-keystroke="shift ctrl #10000c5" />
-  </action>
   <action id="Unwrap" />
   <action id="UpdateRunningApplication" />
+  <action id="Vcs.UpdateProject" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
@@ -125,5 +140,8 @@
   <action id="copilot.cyclePrevInlays">
     <keyboard-shortcut first-keystroke="alt open_bracket" />
     <keyboard-shortcut first-keystroke="alt #10000c6" />
+  </action>
+  <action id="org.martica.equality.Equalize">
+    <keyboard-shortcut first-keystroke="shift ctrl #10000c5" />
   </action>
 </keymap>
