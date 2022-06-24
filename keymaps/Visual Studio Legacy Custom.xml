@@ -126,6 +126,9 @@
   <action id="Unwrap" />
   <action id="UpdateRunningApplication" />
   <action id="Vcs.UpdateProject" />
+  <action id="XDebugger.MuteBreakpoints">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
