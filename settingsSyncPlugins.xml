@@ -2,6 +2,30 @@
   <component name="SettingsSyncPlugins">
     <option name="plugins">
       <map>
+        <entry key="com.codestream.jetbrains-codestream">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="Git4Idea" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.github.copilot">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.github.nicsilver.jumpertest">
           <value>
             <PluginData>
@@ -36,6 +60,11 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.intellij.spring.boot.initializr">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="com.samdark.intellij-visual-studio-code-dark-plus">
           <value>
             <PluginData>
@@ -46,6 +75,22 @@
                 </set>
               </option>
             </PluginData>
+          </value>
+        </entry>
+        <entry key="de.santiv.fastscrolling">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="org.jetbrains.kotlin">
+          <value>
+            <PluginData />
           </value>
         </entry>
         <entry key="org.rust.lang">
