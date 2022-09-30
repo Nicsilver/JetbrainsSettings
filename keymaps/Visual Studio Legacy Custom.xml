@@ -110,6 +110,9 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="RunConfigurationAsAction_Run_generated-requests | #1_default_target">
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+  </action>
   <action id="RunToCursor">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
@@ -129,6 +132,7 @@
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="shift ctrl f11" />
   </action>
+  <action id="ToggleRenderedDocPresentation" />
   <action id="Unwrap" />
   <action id="UpdateRunningApplication" />
   <action id="Vcs.UpdateProject" />
