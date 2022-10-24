@@ -60,6 +60,13 @@
       </set>
     </option>
     <option name="lastViewedProviderKeyId" value="RelatedProblems" />
+    <settingsMapElement>
+      <kotlin.kotlin.lambdas.hints>
+        <Settings>
+          <option name="returnExpressions" value="false" />
+        </Settings>
+      </kotlin.kotlin.lambdas.hints>
+    </settingsMapElement>
   </component>
   <component name="JSEditorOptions">
     <option name="ESCAPE_PASTED_TEXT" value="false" />
