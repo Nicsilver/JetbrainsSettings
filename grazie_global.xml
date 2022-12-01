@@ -2,6 +2,7 @@
   <component name="GraziConfig">
     <option name="userDisabledRules">
       <set>
+        <option value="LanguageTool.EN.WANNA" />
         <option value="LanguageTool.EN.PROFANITY" />
       </set>
     </option>
