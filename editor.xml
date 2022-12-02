@@ -50,7 +50,6 @@
     </option>
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="SHOW_BREADCRUMBS" value="false" />
-    <option name="SHOW_INTENTION_PREVIEW" value="true" />
     <option name="IS_ANIMATED_SCROLLING" value="false" />
   </component>
   <component name="InlayHintsSettings">
@@ -66,6 +65,11 @@
           <option name="returnExpressions" value="false" />
         </Settings>
       </kotlin.kotlin.lambdas.hints>
+      <kotlin.kotlin.references.types.hints>
+        <Settings>
+          <option name="propertyType" value="true" />
+        </Settings>
+      </kotlin.kotlin.references.types.hints>
     </settingsMapElement>
   </component>
   <component name="JSEditorOptions">
