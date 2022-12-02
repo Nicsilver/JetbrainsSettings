@@ -15,7 +15,6 @@
     <entry key="external.system.auto.import.disabled" value="true" />
     <entry key="editor.show.notification.after.optimize.imports" value="false" />
     <entry key="editor.show.notification.after.reformat" value="false" />
-    <entry key="ide.experimental.ui" value="true" />
-    <entry key="debugger.new.tool.window.layout" value="true" />
+    <entry key="ide.experimental.ui" value="false" />
   </component>
 </application>
