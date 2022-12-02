@@ -17,6 +17,7 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="ActivateWebToolWindow" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="CloseAllEditors">
@@ -53,6 +54,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
     <keyboard-shortcut first-keystroke="ctrl dead_acute" />
   </action>
+  <action id="IntentionActionAsAction_org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ExtractDeclarationFromCurrentFileIntention">
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
+  </action>
   <action id="JumpDown 10">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
@@ -77,6 +81,7 @@
   <action id="JumpUpSelect 5">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
+  <action id="Kotlin.RunScratch" />
   <action id="MethodDown" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
