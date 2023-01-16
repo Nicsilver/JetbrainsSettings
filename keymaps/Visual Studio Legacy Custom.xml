@@ -36,8 +36,10 @@
     <keyboard-shortcut first-keystroke="ctrl colon" />
     <keyboard-shortcut first-keystroke="ctrl plus" />
   </action>
+  <action id="Console.TableResult.DeleteRows" />
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
+  <action id="EditorDeleteLine" />
   <action id="EditorDeleteToLineEnd">
     <keyboard-shortcut first-keystroke="shift ctrl delete" />
   </action>
@@ -56,6 +58,9 @@
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
     <keyboard-shortcut first-keystroke="ctrl dead_acute" />
+  </action>
+  <action id="IntentionActionAsAction_org.jetbrains.kotlin.idea.intentions.ChopArgumentListIntention">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
   <action id="IntentionActionAsAction_org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ExtractDeclarationFromCurrentFileIntention">
     <keyboard-shortcut first-keystroke="ctrl alt w" />
