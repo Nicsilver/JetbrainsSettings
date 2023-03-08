@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'api'" />
-    <option name="defaultScopeName" value="Project 'api'" />
-    <option name="SEARCH_SCOPE" value="Project 'api'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*.json</mask>
     <mask>.*.translation</mask>
     <mask>en.translation.json</mask>
-    <mask>*.kt</mask>
     <mask>*.java</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
