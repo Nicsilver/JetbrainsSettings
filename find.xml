@@ -6,6 +6,7 @@
     <mask>*.json</mask>
     <mask>.*.translation</mask>
     <mask>en.translation.json</mask>
+    <mask>*.java</mask>
     <mask>*.kt</mask>
   </component>
 </application>
