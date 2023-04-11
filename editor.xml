@@ -20,9 +20,23 @@
     </option>
     <option name="disabledCodeVisionProviderIds">
       <set>
+        <option value="inheritors" />
         <option value="references" />
         <option value="vcs.code.vision" />
       </set>
+    </option>
+  </component>
+  <component name="DeclarativeInlayHintsSettings">
+    <option name="providerIdToEnabled">
+      <map>
+        <entry key="java.implicit.types" value="false" />
+        <entry key="java.method.chains" value="true" />
+        <entry key="js.chain.hints" value="true" />
+        <entry key="js.type.hints" value="true" />
+        <entry key="ts.chain.hints" value="true" />
+        <entry key="ts.enum.hints" value="true" />
+        <entry key="ts.type.hints" value="true" />
+      </map>
     </option>
   </component>
   <component name="EditorSettings">
@@ -67,13 +81,8 @@
         <option value="JAVA.java.implicit.types" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="" />
+    <option name="lastViewedProviderKeyId" value="kotlin.parameter.hints.old" />
     <settingsMapElement>
-      <kotlin.kotlin.lambdas.hints>
-        <Settings>
-          <option name="returnExpressions" value="false" />
-        </Settings>
-      </kotlin.kotlin.lambdas.hints>
       <kotlin.kotlin.references.types.hints>
         <Settings>
           <option name="functionReturnType" value="true" />
@@ -81,6 +90,11 @@
           <option name="propertyType" value="true" />
         </Settings>
       </kotlin.kotlin.references.types.hints>
+      <kotlin.kotlin.lambdas.hints>
+        <Settings>
+          <option name="returnExpressions" value="false" />
+        </Settings>
+      </kotlin.kotlin.lambdas.hints>
     </settingsMapElement>
   </component>
   <component name="JSEditorOptions">
