@@ -11,12 +11,12 @@
     <variable name="EXPR" expression="variableOfType(&quot;&quot;)" defaultValue="&quot;expr&quot;" alwaysStopAt="true" />
     <variable name="EXPR_COPY" expression="escapeString(EXPR)" defaultValue="" alwaysStopAt="false" />
   </template>
-  <template name="swm" value="$END$($SELECTION$)" description="Soround with method" toReformat="false" toShortenFQNames="true">
+  <template name="swm" value="$END$($SELECTION$)" description="Soround with method" toReformat="false" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="lm" value="console.log($SELECTION$)$END$" description="Soround with log" toReformat="false" toShortenFQNames="true">
+  <template name="lm" value="console.log($SELECTION$$END$);" description="Soround with log" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ECMAScript6" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
