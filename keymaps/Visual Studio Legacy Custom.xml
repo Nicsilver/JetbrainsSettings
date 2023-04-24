@@ -111,6 +111,9 @@
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="MethodUp" />
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+  </action>
   <action id="MoveElementLeft" />
   <action id="MoveElementRight" />
   <action id="MoveLineDown">
@@ -129,6 +132,7 @@
     <keyboard-shortcut first-keystroke="ctrl #10000c5" />
     <keyboard-shortcut first-keystroke="ctrl dead_diaeresis" />
   </action>
+  <action id="OptimizeImports" />
   <action id="Pause">
     <keyboard-shortcut first-keystroke="ctrl pause" />
   </action>
@@ -191,6 +195,7 @@
   <action id="ToggleRenderedDocPresentation" />
   <action id="Unwrap" />
   <action id="UpdateRunningApplication" />
+  <action id="UsageGrouping.FlattenModules" />
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
