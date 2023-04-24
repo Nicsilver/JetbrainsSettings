@@ -63,6 +63,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
     <keyboard-shortcut first-keystroke="ctrl dead_acute" />
   </action>
+  <action id="Inline" />
   <action id="IntentionActionAsAction_org.jetbrains.kotlin.idea.codeInsight.intentions.shared.ChopArgumentListIntention">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
