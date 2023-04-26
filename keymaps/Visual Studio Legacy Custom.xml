@@ -24,6 +24,7 @@
   <action id="ActivateWebToolWindow" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="ChangesView.UnshelveSilently" />
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
@@ -176,6 +177,7 @@
     <keyboard-shortcut first-keystroke="ctrl f1" />
   </action>
   <action id="ShowSearchHistory" />
+  <action id="ShowUmlDiagramPopup" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl #10000d8" />
   </action>
@@ -199,7 +201,9 @@
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
-  <action id="Vcs.UpdateProject" />
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
+  </action>
   <action id="XDebugger.MuteBreakpoints">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
