@@ -58,6 +58,9 @@
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="ctrl f8" />
   </action>
+  <action id="GitUpdateSelectedBranchAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt u" />
+  </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="HideAllWindows">
@@ -177,6 +180,7 @@
     <keyboard-shortcut first-keystroke="ctrl f1" />
   </action>
   <action id="ShowSearchHistory" />
+  <action id="ShowUmlDiagram" />
   <action id="ShowUmlDiagramPopup" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl #10000d8" />
