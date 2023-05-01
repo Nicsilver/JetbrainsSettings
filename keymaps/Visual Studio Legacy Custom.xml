@@ -13,6 +13,9 @@
   <action id="ActivateCoverageToolWindow">
     <keyboard-shortcut first-keystroke="ctrl less" />
   </action>
+  <action id="ActivateEndpointsToolWindow">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="alt 7" />
     <keyboard-shortcut first-keystroke="alt s" />
