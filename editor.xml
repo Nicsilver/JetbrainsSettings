@@ -27,6 +27,11 @@
     </option>
   </component>
   <component name="DeclarativeInlayHintsSettings">
+    <option name="disabledOptions">
+      <set>
+        <option value="ts.type.hints#function.returns" />
+      </set>
+    </option>
     <option name="providerIdToEnabled">
       <map>
         <entry key="java.implicit.types" value="false" />
@@ -35,7 +40,7 @@
         <entry key="js.type.hints" value="true" />
         <entry key="ts.chain.hints" value="true" />
         <entry key="ts.enum.hints" value="true" />
-        <entry key="ts.type.hints" value="false" />
+        <entry key="ts.type.hints" value="true" />
       </map>
     </option>
   </component>
