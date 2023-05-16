@@ -77,6 +77,7 @@
     </option>
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="SHOW_INTENTION_PREVIEW" value="false" />
     <option name="IS_ANIMATED_SCROLLING" value="false" />
   </component>
   <component name="InlayHintsSettings">
