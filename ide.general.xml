@@ -16,11 +16,4 @@
     <entry key="editor.show.notification.after.optimize.imports" value="false" />
     <entry key="editor.show.notification.after.reformat" value="false" />
   </component>
-  <component name="StatusBar">
-    <option name="widgets">
-      <map>
-        <entry key="Memory" value="true" />
-      </map>
-    </option>
-  </component>
 </application>
