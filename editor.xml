@@ -30,6 +30,11 @@
     <option name="AUTOREPARSE_DELAY" value="0" />
   </component>
   <component name="DeclarativeInlayHintsSettings">
+    <option name="disabledOptions">
+      <set>
+        <option value="ts.type.hints#function.returns" />
+      </set>
+    </option>
     <option name="providerIdToEnabled">
       <map>
         <entry key="java.implicit.types" value="false" />
@@ -38,7 +43,7 @@
         <entry key="js.type.hints" value="true" />
         <entry key="ts.chain.hints" value="true" />
         <entry key="ts.enum.hints" value="true" />
-        <entry key="ts.type.hints" value="false" />
+        <entry key="ts.type.hints" value="true" />
       </map>
     </option>
   </component>
@@ -75,6 +80,7 @@
     </option>
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="SHOW_INTENTION_PREVIEW" value="false" />
     <option name="IS_ANIMATED_SCROLLING" value="false" />
   </component>
   <component name="InlayHintsSettings">

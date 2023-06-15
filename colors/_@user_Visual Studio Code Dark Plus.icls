@@ -3,7 +3,7 @@
     <property name="created">2020-10-20T09:52:56</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.1.0</property>
-    <property name="modified">2022-08-11T14:06:07</property>
+    <property name="modified">2023-05-12T08:44:08</property>
     <property name="originalScheme">Visual Studio Code Dark Plus</property>
   </metaInfo>
   <colors>
@@ -12,6 +12,7 @@
     <option name="GUTTER_BACKGROUND" value="1d1d1d" />
     <option name="INDENT_GUIDE" value="3b3b3b" />
     <option name="LINE_NUMBERS_COLOR" value="848484" />
+    <option name="MODIFIED_TAB_ICON" value="323232" />
     <option name="RIGHT_MARGIN_COLOR" value="3b3b3b" />
     <option name="SELECTION_BACKGROUND" value="264e77" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="4e4e4e" />
@@ -859,6 +860,9 @@
     </option>
     <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
     <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
+    <option name="TAB_SELECTED">
+      <value />
+    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="d4d4d4" />

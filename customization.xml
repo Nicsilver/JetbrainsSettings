@@ -1,17 +1,5 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="CreateOpenapiSpecification" is_action="true" action_type="-1" position="28">
-      <path value="root" />
-      <path value="Favorites View Popup Menu" />
-      <path value="New" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="CreateOpenapiSpecification" is_action="true" action_type="1" position="24">
-      <path value="root" />
-      <path value="Favorites View Popup Menu" />
-      <path value="New" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <action id="RunConfigurationAsAction_Run_generated-requests | #1_default_target" icon="HTTP.Request.NewFile" />
   </component>
 </application>
