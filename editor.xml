@@ -89,7 +89,7 @@
         <option value="JAVA.java.implicit.types" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="kotlin.parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value="JAVA.parameter.hints.old" />
     <settingsMapElement>
       <kotlin.kotlin.references.types.hints>
         <Settings>
@@ -108,6 +108,9 @@
   <component name="JSEditorOptions">
     <option name="ESCAPE_PASTED_TEXT" value="false" />
     <option name="CONVERT_HTML_TO_JSX" value="false" />
+  </component>
+  <component name="JetEditorOptions">
+    <option name="donTShowConversionDialog" value="true" />
   </component>
   <component name="JsonEditorOptions">
     <option name="COMMA_ON_ENTER" value="false" />
