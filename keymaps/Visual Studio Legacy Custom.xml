@@ -34,6 +34,9 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl t" />
