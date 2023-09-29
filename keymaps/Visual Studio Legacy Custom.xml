@@ -96,9 +96,6 @@
   <action id="IntentionActionAsAction_org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ExtractDeclarationFromCurrentFileIntention">
     <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
-  <action id="JumpDown 10">
-    <keyboard-shortcut first-keystroke="ctrl alt down" />
-  </action>
   <action id="JumpDown 5">
     <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
@@ -107,9 +104,6 @@
   </action>
   <action id="JumpDownSelect 5">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
-  </action>
-  <action id="JumpUp 10">
-    <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="JumpUp 5">
     <keyboard-shortcut first-keystroke="ctrl up" />
@@ -122,10 +116,14 @@
   </action>
   <action id="Kotlin.RunScratch" />
   <action id="MaximizeToolWindow" />
-  <action id="MethodDown" />
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
-  <action id="MethodUp" />
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
