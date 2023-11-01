@@ -2,8 +2,14 @@
   <component name="GraziConfig">
     <option name="userDisabledRules">
       <set>
+        <option value="Bundled.Yaml.En.Insensitive_Writing_(alex).Race" />
+        <option value="Bundled.Yaml.En.Insensitive_Writing_(alex).LGBTQ" />
+        <option value="Bundled.Yaml.En.Insensitive_Writing_(alex).Ablist" />
         <option value="LanguageTool.EN.WANNA" />
+        <option value="Bundled.Yaml.En.Insensitive_Writing_(alex).Press" />
+        <option value="Bundled.Yaml.En.Insensitive_Writing_(alex).ProfanityLikely" />
         <option value="LanguageTool.EN.PROFANITY" />
+        <option value="Bundled.Yaml.En.Insensitive_Writing_(alex).Suicide" />
       </set>
     </option>
     <option name="suppressingContext">
