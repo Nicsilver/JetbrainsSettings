@@ -1,5 +1,6 @@
 <application>
   <component name="RainbowSettings">
+    <option name="customIndentGuides" value="true" />
     <option name="doNOTRainbowifyBigFiles" value="false" />
     <option name="indentGuidesOptions" value="Only selected indent guide" />
     <option name="rainbowifyTagNameInXML" value="true" />
