@@ -34,6 +34,9 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl t" />
@@ -93,9 +96,6 @@
   <action id="IntentionActionAsAction_org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ExtractDeclarationFromCurrentFileIntention">
     <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
-  <action id="JumpDown 10">
-    <keyboard-shortcut first-keystroke="ctrl alt down" />
-  </action>
   <action id="JumpDown 5">
     <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
@@ -104,9 +104,6 @@
   </action>
   <action id="JumpDownSelect 5">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
-  </action>
-  <action id="JumpUp 10">
-    <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="JumpUp 5">
     <keyboard-shortcut first-keystroke="ctrl up" />
@@ -119,10 +116,14 @@
   </action>
   <action id="Kotlin.RunScratch" />
   <action id="MaximizeToolWindow" />
-  <action id="MethodDown" />
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
-  <action id="MethodUp" />
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
@@ -143,6 +144,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt right" />
     <keyboard-shortcut first-keystroke="ctrl #10000c5" />
     <keyboard-shortcut first-keystroke="ctrl dead_diaeresis" />
+    <keyboard-shortcut first-keystroke="alt quote" />
   </action>
   <action id="OptimizeImports" />
   <action id="Pause">
@@ -190,16 +192,17 @@
   <action id="ShowSearchHistory" />
   <action id="ShowUmlDiagram" />
   <action id="ShowUmlDiagramPopup" />
-  <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="shift ctrl #10000d8" />
+  <action id="TabShiftActions.ShiftLeft">
+    <keyboard-shortcut first-keystroke="ctrl #10000c6" />
+    <keyboard-shortcut first-keystroke="alt #10000c6" />
+  </action>
+  <action id="TabShiftActions.ShiftRight">
+    <keyboard-shortcut first-keystroke="ctrl #10000d8" />
+    <keyboard-shortcut first-keystroke="alt #10000d8" />
   </action>
   <action id="TabShiftActions.StretchLeft">
     <keyboard-shortcut first-keystroke="ctrl alt open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl alt #10000c6" />
-  </action>
-  <action id="TabShiftActions.StretchRight">
-    <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />
-    <keyboard-shortcut first-keystroke="ctrl alt #10000d8" />
   </action>
   <action id="Terminal.MoveToolWindowTabLeft" />
   <action id="Terminal.MoveToolWindowTabRight" />
@@ -230,13 +233,9 @@
   </action>
   <action id="copilot.cycleNextInlays">
     <keyboard-shortcut first-keystroke="alt close_bracket" />
-    <keyboard-shortcut first-keystroke="alt #10000d8" />
-    <keyboard-shortcut first-keystroke="ctrl #10000d8" />
   </action>
   <action id="copilot.cyclePrevInlays">
     <keyboard-shortcut first-keystroke="alt open_bracket" />
-    <keyboard-shortcut first-keystroke="alt #10000c6" />
-    <keyboard-shortcut first-keystroke="ctrl #10000c6" />
   </action>
   <action id="org.martica.equality.Equalize">
     <keyboard-shortcut first-keystroke="shift ctrl #10000c5" />

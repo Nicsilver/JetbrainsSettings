@@ -4,6 +4,8 @@
       <list>
         <option value="com.intellij.bigdatatools" />
         <option value="aws.toolkit" />
+        <option value="com.intellij.bigdatatools.rfs" />
+        <option value="com.intellij.kubernetes" />
       </list>
     </option>
   </component>

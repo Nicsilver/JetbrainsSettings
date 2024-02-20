@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.propstep.api.control.repository.FilterKt.eq($this$eq,value)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
