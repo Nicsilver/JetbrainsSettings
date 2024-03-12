@@ -146,6 +146,7 @@
     <keyboard-shortcut first-keystroke="ctrl #10000c5" />
     <keyboard-shortcut first-keystroke="ctrl dead_diaeresis" />
     <keyboard-shortcut first-keystroke="alt quote" />
+    <keyboard-shortcut first-keystroke="alt dead_diaeresis" />
   </action>
   <action id="OptimizeImports" />
   <action id="Pause">
