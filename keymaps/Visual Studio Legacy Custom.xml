@@ -242,4 +242,8 @@
   <action id="org.martica.equality.Equalize">
     <keyboard-shortcut first-keystroke="shift ctrl #10000c5" />
   </action>
+  <action id="tabshifter.Actions.EqualSizeSplit">
+    <keyboard-shortcut first-keystroke="ctrl alt plus" />
+    <keyboard-shortcut first-keystroke="shift ctrl dead_diaeresis" />
+  </action>
 </keymap>
