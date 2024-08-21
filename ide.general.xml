@@ -15,6 +15,8 @@
     <entry key="ide.svg.icon" value="true" />
     <entry key="editor.show.notification.after.optimize.imports" value="false" />
     <entry key="editor.show.notification.after.reformat" value="false" />
+    <entry key="moved.to.new.ui" value="true" />
+    <entry key="ide.experimental.ui" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

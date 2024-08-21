@@ -27,6 +27,9 @@
       </set>
     </option>
   </component>
+  <component name="CursiveManagers">
+    <option name="feat1" value="false" />
+  </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="AUTOREPARSE_DELAY" value="0" />
   </component>
