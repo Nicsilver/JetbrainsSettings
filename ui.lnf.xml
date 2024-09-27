@@ -10,6 +10,7 @@
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
     <option name="showTreeIndentGuides" value="true" />
     <option name="smoothScrolling" value="false" />
+    <option name="UI_DENSITY" value="COMPACT" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
   </component>
 </application>
