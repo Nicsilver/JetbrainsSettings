@@ -1,5 +1,6 @@
 <application>
   <component name="IndentRainbowConfig">
+    <option name="fileMasks" value="*.yml;*.yaml" />
     <option name="opacityMultiplier" value="0.38" />
   </component>
 </application>
