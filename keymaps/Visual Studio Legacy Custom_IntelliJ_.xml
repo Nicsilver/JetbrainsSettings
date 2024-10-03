@@ -1,0 +1,257 @@
+<keymap version="1" name="Visual Studio Legacy Custom(IntelliJ)" parent="Visual Studio Legacy">
+  <action id="AceAction">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="ActivateAntToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="ActivateCommitToolWindow">
+    <keyboard-shortcut first-keystroke="alt 0" />
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="ActivateCoverageToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl less" />
+  </action>
+  <action id="ActivateEndpointsToolWindow">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt 7" />
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="ActivateWebToolWindow" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="ChangesView.UnshelveSilently" />
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+  </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="ctrl colon" />
+    <keyboard-shortcut first-keystroke="ctrl plus" />
+  </action>
+  <action id="Console.TableResult.DeleteRows" />
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.PreviousPage" />
+  <action id="ContextHelp" />
+  <action id="EditorDeleteLine" />
+  <action id="EditorDeleteToLineEnd">
+    <keyboard-shortcut first-keystroke="shift ctrl delete" />
+  </action>
+  <action id="EditorDeleteToLineStart">
+    <keyboard-shortcut first-keystroke="shift ctrl back_space" />
+  </action>
+  <action id="EditorLookupDown" />
+  <action id="EditorLookupUp" />
+  <action id="EditorScrollDown" />
+  <action id="EditorScrollUp" />
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
+    <keyboard-shortcut first-keystroke="shift ctrl quote" />
+  </action>
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="ctrl f8" />
+  </action>
+  <action id="GitUpdateSelectedBranchAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt u" />
+  </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
+  <action id="GotoPrevElementUnderCaretUsage" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift ctrl f12" />
+    <keyboard-shortcut first-keystroke="ctrl dead_acute" />
+  </action>
+  <action id="Inline" />
+  <action id="IntentionActionAsAction_org.jetbrains.kotlin.idea.codeInsight.intentions.shared.ChopArgumentListIntention">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
+  <action id="IntentionActionAsAction_org.jetbrains.kotlin.idea.intentions.AddNamesToCallArgumentsIntention">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="IntentionActionAsAction_org.jetbrains.kotlin.idea.intentions.ChopArgumentListIntention">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
+  <action id="IntentionActionAsAction_org.jetbrains.kotlin.idea.intentions.ChopParameterListIntention">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
+  <action id="IntentionActionAsAction_org.jetbrains.kotlin.idea.intentions.ImportMemberIntention">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+  </action>
+  <action id="IntentionActionAsAction_org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ExtractDeclarationFromCurrentFileIntention">
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
+  </action>
+  <action id="JumpDown 5">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="JumpDown5">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="JumpDownSelect 5">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="JumpUp 5">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
+  <action id="JumpUp5">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="JumpUpSelect 5">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="Kotlin.RunScratch" />
+  <action id="MaximizeToolWindow" />
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="MethodOverloadSwitchDown" />
+  <action id="MethodOverloadSwitchUp" />
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+  </action>
+  <action id="MoveElementLeft" />
+  <action id="MoveElementRight" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
+  <action id="NextOccurence">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="shift ctrl alt right" />
+    <keyboard-shortcut first-keystroke="ctrl #10000c5" />
+    <keyboard-shortcut first-keystroke="ctrl dead_diaeresis" />
+    <keyboard-shortcut first-keystroke="alt quote" />
+    <keyboard-shortcut first-keystroke="alt dead_diaeresis" />
+  </action>
+  <action id="OpenInlineChatAction">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
+  <action id="OptimizeImports" />
+  <action id="Pause">
+    <keyboard-shortcut first-keystroke="ctrl pause" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift ctrl alt left" />
+  </action>
+  <action id="PreviousOccurence" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
+  <action id="RecentChangedFiles">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="RecentFiles" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="RunConfigurationAsAction_Run_generated-requests | #1_default_target">
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+  </action>
+  <action id="RunConfigurationAsAction_Run_rest-api | #1_default_target">
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+  </action>
+  <action id="RunToCursor">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="SearchEverywhere.NavigateToNextGroup">
+    <keyboard-shortcut first-keystroke="page_down" />
+  </action>
+  <action id="SearchEverywhere.NavigateToPrevGroup">
+    <keyboard-shortcut first-keystroke="page_up" />
+  </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
+  <action id="ShowContent" />
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="ctrl f1" />
+  </action>
+  <action id="ShowSearchHistory" />
+  <action id="ShowUmlDiagram" />
+  <action id="ShowUmlDiagramPopup" />
+  <action id="TabShiftActions.ShiftLeft">
+    <keyboard-shortcut first-keystroke="ctrl #10000c6" />
+    <keyboard-shortcut first-keystroke="alt #10000c6" />
+  </action>
+  <action id="TabShiftActions.ShiftRight">
+    <keyboard-shortcut first-keystroke="ctrl #10000d8" />
+    <keyboard-shortcut first-keystroke="alt #10000d8" />
+  </action>
+  <action id="TabShiftActions.StretchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl alt #10000c6" />
+  </action>
+  <action id="Terminal.MoveToolWindowTabLeft" />
+  <action id="Terminal.MoveToolWindowTabRight" />
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="shift ctrl f11" />
+  </action>
+  <action id="ToggleRenderedDocPresentation" />
+  <action id="Unwrap" />
+  <action id="UpdateRunningApplication" />
+  <action id="UsageGrouping.FlattenModules" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="Vcs.ShowHistoryForBlock">
+    <keyboard-shortcut first-keystroke="shift alt h" />
+  </action>
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
+  </action>
+  <action id="XDebugger.MuteBreakpoints">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+  <action id="copilot.cycleNextInlays">
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
+  </action>
+  <action id="copilot.cyclePrevInlays">
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
+  </action>
+  <action id="org.martica.equality.Equalize">
+    <keyboard-shortcut first-keystroke="shift ctrl #10000c5" />
+  </action>
+  <action id="tabshifter.Actions.EqualSizeSplit">
+    <keyboard-shortcut first-keystroke="ctrl alt plus" />
+    <keyboard-shortcut first-keystroke="shift ctrl dead_diaeresis" />
+  </action>
+</keymap>

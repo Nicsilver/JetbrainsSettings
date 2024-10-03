@@ -1,0 +1,15 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <mask>*.json</mask>
+    <mask>.*.translation</mask>
+    <mask>en.translation.json</mask>
+    <mask>*.java</mask>
+    <mask>*.tsx</mask>
+    <mask>*.ts</mask>
+    <mask>*.kt</mask>
+    <mask>!*.js</mask>
+  </component>
+</application>
