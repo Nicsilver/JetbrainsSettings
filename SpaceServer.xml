@@ -6,6 +6,12 @@
         <option name="version" value="9" />
       </SpacePermissionsStorage>
     </option>
+    <option name="reviewSettings">
+      <SpaceReviewSettings>
+        <option name="discussionsVisibility" value="DONT_SHOW" />
+        <option name="highlightDiffLinesInEditor" value="false" />
+      </SpaceReviewSettings>
+    </option>
     <option name="serverSettings">
       <SpaceServerSettings>
         <option name="enabled" value="true" />
