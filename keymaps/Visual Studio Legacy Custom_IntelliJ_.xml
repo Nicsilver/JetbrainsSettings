@@ -110,6 +110,7 @@
   <action id="JumpDownSelect 5">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
+  <action id="JumpToLastChange" />
   <action id="JumpUp 5">
     <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
@@ -192,7 +193,6 @@
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
   <action id="SelectInProjectView">
-    <keyboard-shortcut first-keystroke="shift ctrl g" />
     <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="ShowContent" />
@@ -249,6 +249,9 @@
   </action>
   <action id="copilot.cyclePrevInlays">
     <keyboard-shortcut first-keystroke="alt open_bracket" />
+  </action>
+  <action id="copilot.documentation">
+    <keyboard-shortcut first-keystroke="shift ctrl f2" />
   </action>
   <action id="org.martica.equality.Equalize">
     <keyboard-shortcut first-keystroke="shift ctrl #10000c5" />
