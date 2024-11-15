@@ -77,5 +77,12 @@
     <option name="TAB_SELECTED">
       <value />
     </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="d4d4d4" />
+        <option name="BACKGROUND" value="202020" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
   </attributes>
 </scheme>
