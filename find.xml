@@ -11,5 +11,6 @@
     <mask>*.ts</mask>
     <mask>*.kt</mask>
     <mask>!*.js</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
