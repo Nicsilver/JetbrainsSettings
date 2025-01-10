@@ -1,6 +1,16 @@
 <application>
   <component name="DiffSettings">
     <option name="PLACES_MAP">
+      <entry key="ChangesTreeDiffPreview">
+        <PlaceSettings>
+          <option name="DIFF_TOOLS_ORDER">
+            <list>
+              <option value="com.intellij.diff.tools.combined.CombinedUnifiedDiffTool" />
+              <option value="com.intellij.diff.tools.combined.CombinedSideBySideDiffTool" />
+            </list>
+          </option>
+        </PlaceSettings>
+      </entry>
       <entry key="ChangesView">
         <PlaceSettings>
           <option name="DIFF_TOOLS_ORDER">
