@@ -204,15 +204,15 @@
   <action id="ShowUmlDiagramPopup" />
   <action id="TabShiftActions.ShiftLeft">
     <keyboard-shortcut first-keystroke="ctrl #10000c6" />
-    <keyboard-shortcut first-keystroke="alt #10000c6" />
   </action>
   <action id="TabShiftActions.ShiftRight">
     <keyboard-shortcut first-keystroke="ctrl #10000d8" />
-    <keyboard-shortcut first-keystroke="alt #10000d8" />
   </action>
   <action id="TabShiftActions.StretchLeft">
-    <keyboard-shortcut first-keystroke="ctrl alt open_bracket" />
-    <keyboard-shortcut first-keystroke="ctrl alt #10000c6" />
+    <keyboard-shortcut first-keystroke="alt #10000c6" />
+  </action>
+  <action id="TabShiftActions.StretchRight">
+    <keyboard-shortcut first-keystroke="alt #10000d8" />
   </action>
   <action id="Terminal.MoveToolWindowTabLeft" />
   <action id="Terminal.MoveToolWindowTabRight" />
@@ -257,7 +257,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl #10000c5" />
   </action>
   <action id="tabshifter.Actions.EqualSizeSplit">
-    <keyboard-shortcut first-keystroke="ctrl alt plus" />
-    <keyboard-shortcut first-keystroke="shift ctrl dead_diaeresis" />
+    <keyboard-shortcut first-keystroke="alt l" />
   </action>
 </keymap>
