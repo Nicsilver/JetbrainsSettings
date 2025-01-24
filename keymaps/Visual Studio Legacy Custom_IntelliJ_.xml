@@ -87,9 +87,6 @@
   <action id="IntentionActionAsAction_org.jetbrains.kotlin.idea.codeInsight.intentions.shared.ChopArgumentListIntention">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
-  <action id="IntentionActionAsAction_org.jetbrains.kotlin.idea.intentions.AddNamesToCallArgumentsIntention">
-    <keyboard-shortcut first-keystroke="alt b" />
-  </action>
   <action id="IntentionActionAsAction_org.jetbrains.kotlin.idea.intentions.ChopArgumentListIntention">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
