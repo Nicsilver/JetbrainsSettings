@@ -1,4 +1,4 @@
-<keymap version="1" name="Visual Studio Legacy Custom" parent="Visual Studio Legacy">
+<keymap version="1" name="Visual Studio Legacy Custom(IntelliJ)" parent="Visual Studio Legacy">
   <action id="AceAction">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
@@ -12,6 +12,9 @@
   </action>
   <action id="ActivateCoverageToolWindow">
     <keyboard-shortcut first-keystroke="ctrl less" />
+  </action>
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt b" />
   </action>
   <action id="ActivateEndpointsToolWindow">
     <keyboard-shortcut first-keystroke="alt e" />
@@ -50,6 +53,7 @@
   <action id="Console.TableResult.DeleteRows" />
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
+  <action id="ContextHelp" />
   <action id="EditorDeleteLine" />
   <action id="EditorDeleteToLineEnd">
     <keyboard-shortcut first-keystroke="shift ctrl delete" />
@@ -106,6 +110,7 @@
   <action id="JumpDownSelect 5">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
+  <action id="JumpToLastChange" />
   <action id="JumpUp 5">
     <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
@@ -148,6 +153,9 @@
     <keyboard-shortcut first-keystroke="alt quote" />
     <keyboard-shortcut first-keystroke="alt dead_diaeresis" />
   </action>
+  <action id="OpenInlineChatAction">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
   <action id="OptimizeImports" />
   <action id="Pause">
     <keyboard-shortcut first-keystroke="ctrl pause" />
@@ -185,7 +193,7 @@
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
   <action id="SelectInProjectView">
-    <keyboard-shortcut first-keystroke="shift ctrl g" />
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="ShowContent" />
   <action id="ShowErrorDescription">
@@ -208,6 +216,9 @@
   </action>
   <action id="Terminal.MoveToolWindowTabLeft" />
   <action id="Terminal.MoveToolWindowTabRight" />
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
+  </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="shift ctrl f11" />
   </action>
@@ -238,6 +249,9 @@
   </action>
   <action id="copilot.cyclePrevInlays">
     <keyboard-shortcut first-keystroke="alt open_bracket" />
+  </action>
+  <action id="copilot.documentation">
+    <keyboard-shortcut first-keystroke="shift ctrl f2" />
   </action>
   <action id="org.martica.equality.Equalize">
     <keyboard-shortcut first-keystroke="shift ctrl #10000c5" />

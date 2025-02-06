@@ -1,0 +1,22 @@
+<application>
+  <component name="SpaceServerConfigurable">
+    <option name="cloneType" value="SSH" />
+    <option name="permissionsStorage">
+      <SpacePermissionsStorage>
+        <option name="version" value="9" />
+      </SpacePermissionsStorage>
+    </option>
+    <option name="reviewSettings">
+      <SpaceReviewSettings>
+        <option name="discussionsVisibility" value="DONT_SHOW" />
+        <option name="highlightDiffLinesInEditor" value="false" />
+      </SpaceReviewSettings>
+    </option>
+    <option name="serverSettings">
+      <SpaceServerSettings>
+        <option name="enabled" value="true" />
+        <option name="server" value="https://team-webbill.jetbrains.space" />
+      </SpaceServerSettings>
+    </option>
+  </component>
+</application>
