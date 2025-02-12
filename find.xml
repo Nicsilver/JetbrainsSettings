@@ -12,5 +12,7 @@
     <mask>*.kt</mask>
     <mask>!*.js</mask>
     <mask>*.sql</mask>
+    <mask>*poland.jrxml</mask>
+    <mask>*poland*.jrxml</mask>
   </component>
 </application>
