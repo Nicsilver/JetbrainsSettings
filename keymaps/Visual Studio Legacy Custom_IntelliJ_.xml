@@ -1,4 +1,7 @@
 <keymap version="1" name="Visual Studio Legacy Custom(IntelliJ)" parent="Visual Studio Legacy">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="AceAction">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
@@ -54,6 +57,9 @@
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
   <action id="ContextHelp" />
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="EditorDeleteLine" />
   <action id="EditorDeleteToLineEnd">
     <keyboard-shortcut first-keystroke="shift ctrl delete" />
@@ -66,6 +72,7 @@
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
   <action id="EvaluateExpression" />
+  <action id="FileChooser.TogglePathBar" />
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
     <keyboard-shortcut first-keystroke="shift ctrl quote" />
@@ -162,6 +169,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt left" />
   </action>
   <action id="PreviousOccurence" />
+  <action id="Print" />
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="shift ctrl i" />
     <keyboard-shortcut first-keystroke="shift ctrl b" />
