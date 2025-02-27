@@ -1,55 +1,6 @@
 <application>
-  <component name="KotlinLibrariesCompatibilityStore">
-    <option name="ideVersion" value="2024.3" />
-    <option name="libraries">
-      <list>
-        <KotlinLibraryCompatibilityEntry>
-          <option name="artifactId" value="kotlinx-coroutines-core" />
-          <option name="groupId" value="org.jetbrains.kotlinx" />
-          <option name="versions">
-            <map>
-              <entry key="1.5" value="1.5.2" />
-              <entry key="1.6" value="1.6.4" />
-              <entry key="1.7" value="1.6.4" />
-              <entry key="1.8" value="1.7.3" />
-              <entry key="1.9" value="1.8.1" />
-              <entry key="2.0" value="1.8.1" />
-            </map>
-          </option>
-        </KotlinLibraryCompatibilityEntry>
-        <KotlinLibraryCompatibilityEntry>
-          <option name="artifactId" value="kotlinx-datetime" />
-          <option name="groupId" value="org.jetbrains.kotlinx" />
-          <option name="versions">
-            <map>
-              <entry key="1.5" value="0.3.1" />
-              <entry key="1.6" value="0.3.2" />
-              <entry key="1.7" value="0.4.0" />
-              <entry key="1.8" value="0.4.1" />
-              <entry key="1.9" value="0.6.1" />
-              <entry key="2.0" value="0.6.1" />
-            </map>
-          </option>
-        </KotlinLibraryCompatibilityEntry>
-        <KotlinLibraryCompatibilityEntry>
-          <option name="artifactId" value="kotlinx-serialization-json" />
-          <option name="groupId" value="org.jetbrains.kotlinx" />
-          <option name="versions">
-            <map>
-              <entry key="1.5" value="1.2.2" />
-              <entry key="1.6" value="1.3.3" />
-              <entry key="1.7" value="1.4.1" />
-              <entry key="1.8" value="1.5.1" />
-              <entry key="1.9" value="1.6.3" />
-              <entry key="2.0" value="1.7.2" />
-            </map>
-          </option>
-        </KotlinLibraryCompatibilityEntry>
-      </list>
-    </option>
-  </component>
   <component name="KotlinWizardDependencyVersionStore">
-    <option name="ideVersion" value="2023.3.4" />
+    <option name="ideVersion" value="2024.3.3" />
     <option name="versions">
       <map>
         <entry key="androidx.activity:activity-compose" value="1.7.2" />
@@ -81,11 +32,11 @@
     <option name="codehausMojoExecVersion" value="1.6.0" />
     <option name="composeCompilerExtension" value="1.4.3" />
     <option name="failsafeVersion" value="2.22.2" />
-    <option name="foojayVersion" value="0.5.0" />
+    <option name="foojayVersion" value="0.8.0" />
     <option name="gradleAndroidVersion" value="8.1.0" />
-    <option name="ideVersion" value="2023.3.4" />
+    <option name="ideVersion" value="2024.3.3" />
     <option name="kotlinForComposeVersion" value="1.7.20" />
-    <option name="kotlinPluginVersion" value="1.9.22" />
+    <option name="kotlinPluginVersion" value="2.1.10" />
     <option name="minGradleFoojayVersion" value="7.6" />
     <option name="minKotlinFoojayVersion" value="1.5.30" />
     <option name="surefireVersion" value="2.22.2" />
