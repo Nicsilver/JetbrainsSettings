@@ -1,0 +1,34 @@
+<application>
+  <component name="DBNavigator.Application.DatabaseDriverManager">
+    <known-driver-classes>
+      <library checksum="1622781446" path="C:\Users\NIJE\AppData\Roaming\JetBrains\IntelliJIdea2024.3\plugins\DBNavigator\lib\ext\bundled-jdbc-oracle" driver-classes="oracle.jdbc.OracleDriver,oracle.jdbc.driver.OracleDriver" />
+    </known-driver-classes>
+  </component>
+  <component name="DBNavigator.Application.FileTypeService">
+    <original-file-types>
+      <mapping file-extension="sql" file-type="SQL" />
+    </original-file-types>
+  </component>
+  <component name="DBNavigator.Application.PluginConflictManager">
+    <plugin-conflict-prompted value="false" />
+    <file-types-claimed value="false" />
+  </component>
+  <component name="DBNavigator.Application.PluginStatusManager">
+    <plugin-statuses>
+      <status project="$USER_HOME$/IdeaProjects/Webservices" dbn="PASSIVE" sql="ACTIVE" />
+      <status project="DEFAULT" dbn="PASSIVE" sql="PASSIVE" />
+    </plugin-statuses>
+  </component>
+  <component name="DBNavigator.Application.Settings">
+    <diagnostics>
+      <developer-mode>
+        <timeout value="10" />
+        <enabled value="false" />
+      </developer-mode>
+      <debug-logging failsafe-errors="false" database-access="false" database-resource="false" />
+      <database-lag enabled="false" connectivity="2000" querying="2000" fetching="500" />
+      <miscellaneous dialog-sizing-reset="false" native-alerts-enabled="false" bulk-actions-enabled="false" background-disposer-disabled="false" timeout-handling-disabled="false" />
+    </diagnostics>
+    <client-id value="BAD135C28B5644ED914AB331DE753244" />
+  </component>
+</application>
