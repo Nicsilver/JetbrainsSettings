@@ -4,22 +4,22 @@
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="85b28c" />
-    <option name="CARET_COLOR" value="9ea6aa" />
-    <option name="CARET_ROW_COLOR" value="323c3f" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="2b3235" />
+    <option name="ADDED_LINES_COLOR" value="85B28C" />
+    <option name="CARET_COLOR" value="9EA6AA" />
+    <option name="CARET_ROW_COLOR" value="323C3F" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="2B3235" />
     <option name="GUTTER_BACKGROUND" value="394649" />
-    <option name="INDENT_GUIDE" value="69727a" />
-    <option name="LINE_NUMBERS_COLOR" value="819f9a" />
-    <option name="MODIFIED_LINES_COLOR" value="89a9ce" />
+    <option name="INDENT_GUIDE" value="69727A" />
+    <option name="LINE_NUMBERS_COLOR" value="819F9A" />
+    <option name="MODIFIED_LINES_COLOR" value="89A9CE" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="978358" />
     <option name="RIGHT_MARGIN_COLOR" value="445258" />
-    <option name="SELECTED_INDENT_GUIDE" value="a5a69e" />
-    <option name="SELECTED_TEARLINE_COLOR" value="d9d9d9" />
-    <option name="SELECTION_BACKGROUND" value="505c5f" />
+    <option name="SELECTED_INDENT_GUIDE" value="A5A69E" />
+    <option name="SELECTED_TEARLINE_COLOR" value="D9D9D9" />
+    <option name="SELECTION_BACKGROUND" value="505C5F" />
     <option name="SELECTION_FOREGROUND" value="" />
-    <option name="TEARLINE_COLOR" value="a5a5a5" />
-    <option name="WHITESPACES" value="7a90a0" />
+    <option name="TEARLINE_COLOR" value="A5A5A5" />
+    <option name="WHITESPACES" value="7A90A0" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
