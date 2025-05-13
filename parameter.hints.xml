@@ -1,0 +1,12 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.propstep.api.control.repository.FilterKt.eq($this$eq,value)" />
+      </blacklist>
+      <blacklist language="Kotlin">
+        <added pattern="com.brunata.webbill.webservices.lib.DatabaseService.updateColumns(primaryKeyValue,updates)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

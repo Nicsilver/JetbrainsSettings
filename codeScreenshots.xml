@@ -1,0 +1,8 @@
+<application>
+  <component name="CodeScreenshotsOptions">
+    <option name="scale" value="2.0" />
+    <option name="outerPaddingHoriz" value="0.0" />
+    <option name="outerPaddingVert" value="0.0" />
+    <option name="showWindowControls" value="false" />
+  </component>
+</application>

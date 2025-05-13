@@ -1,0 +1,88 @@
+<scheme name="_@user_Visual Studio Code Dark Plus" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2020-10-20T09:52:56</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">4.0.1.0</property>
+    <property name="modified">2024-03-05T12:13:39</property>
+    <property name="originalScheme">Visual Studio Code Dark Plus</property>
+    <property name="partialSave">true</property>
+  </metaInfo>
+  <colors>
+    <option name="MODIFIED_TAB_ICON" value="323232" />
+  </colors>
+  <attributes>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="c1a5d8" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="9f63ee" />
+      </value>
+    </option>
+    <option name="CTRL_CLICKABLE">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+        <option name="EFFECT_COLOR" value="589df6" />
+      </value>
+    </option>
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="d5f1b8" />
+      </value>
+    </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="HTML_CUSTOM_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="91ff95" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.DECORATOR">
+      <value>
+        <option name="FOREGROUND" value="39c8b0" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="467cda" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="8050bb" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="cda5d8" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="8050bb" />
+      </value>
+    </option>
+    <option name="TAB_SELECTED">
+      <value />
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="d4d4d4" />
+        <option name="BACKGROUND" value="202020" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
