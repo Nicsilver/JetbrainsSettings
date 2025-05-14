@@ -46,6 +46,11 @@
   <action id="ActivateWebToolWindow" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl meta left" />
+  </action>
   <action id="ChangesView.UnshelveSilently" />
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
@@ -89,6 +94,11 @@
   <action id="FileChooser.TogglePathBar" />
   <action id="ForceStepInto">
     <keyboard-shortcut first-keystroke="alt f11" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
