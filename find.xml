@@ -16,7 +16,7 @@
     <mask>*poland.jrxml</mask>
     <mask>*poland*.jrxml</mask>
     <mask>!*.jrxml</mask>
-    <mask>*.sql</mask>
     <mask>*.jrxml</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
