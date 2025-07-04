@@ -324,5 +324,25 @@
         </sourcePath>
       </roots>
     </jdk>
+    <jdk version="2">
+      <name value="corretto-1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_452&quot;" />
+      <homePath value="$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-1.8.0_452/Contents/Home" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+    </jdk>
   </component>
 </application>
