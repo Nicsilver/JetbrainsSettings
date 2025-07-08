@@ -53,8 +53,12 @@
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f10" />
+    <keyboard-shortcut first-keystroke="alt dollar" />
+  </action>
   <action id="CloseAllEditors">
-    <keyboard-shortcut first-keystroke="alt r" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
   </action>
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="alt w" />
@@ -74,6 +78,11 @@
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
   <action id="ContextHelp" />
+  <action id="DatabaseView.ForceRefresh" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="alt f5" />
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
@@ -90,6 +99,7 @@
   <action id="EditorScrollUp" />
   <action id="EvaluateExpression" />
   <action id="FileChooser.TogglePathBar" />
+  <action id="ForceRefresh" />
   <action id="ForceStepInto">
     <keyboard-shortcut first-keystroke="alt f11" />
   </action>
@@ -206,6 +216,10 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+    <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="RunConfigurationAsAction_Run_generated-requests | #1_default_target">
     <keyboard-shortcut first-keystroke="ctrl alt q" />
