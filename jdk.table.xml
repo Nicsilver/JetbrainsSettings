@@ -671,7 +671,7 @@
     <jdk version="2">
       <name value="21" />
       <type value="JavaSDK" />
-      <version value="java version &quot;21.0.7&quot;" />
+      <version value="JetBrains Runtime 21.0.7 - aarch64" />
       <homePath value="$USER_HOME$/Library/Java/JavaVirtualMachines/jbr-21.0.7/Contents/Home" />
       <roots>
         <annotationsPath>
