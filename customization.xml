@@ -79,7 +79,7 @@
       <path value="Main Toolbar" />
       <path value="Right" />
     </group>
-    <action id="NewUiRunWidget" icon="jar:file:/Users/nije/Applications/IntelliJ%20IDEA%20Ultimate.app/Contents/lib/app-client.jar!/expui/toolbar/unknown.svg" />
     <action id="RunConfigurationAsAction_Run_generated-requests | #1_default_target" icon="HTTP.Request.NewFile" />
+    <action id="NewUiRunWidget" icon="jar:file:/Users/nije/Applications/IntelliJ%20IDEA%20Ultimate.app/Contents/lib/app-client.jar!/expui/toolbar/unknown.svg" />
   </component>
 </application>
