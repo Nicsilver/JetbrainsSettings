@@ -14,6 +14,9 @@
         <property name="com.intellij.clouds.kubernetes.db.container.port" />
       </jdbc-additional-properties>
       <working-dir>$ProjectFileDir$</working-dir>
+      <driver-properties>
+        <property name="oracle.jdbc.fetchSizeTuning" value="500" />
+      </driver-properties>
     </data-source>
     <data-source source="LOCAL" name="Dev Webarchive" uuid="9b89738e-19b5-44e1-8b14-04209767fbaf">
       <driver-ref>oracle.19</driver-ref>
