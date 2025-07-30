@@ -295,6 +295,11 @@
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("split").withParameters("java.lang.String").definedInClass("java.lang.String"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("split").withParameters("java.lang.String", "int").definedInClass("java.lang.String"))]]></place>
     </injection>
+    <injection language="OracleSqlPlus" injector-id="java">
+      <display-name>StringBuilder.append (java.lang)</display-name>
+      <single-file value="false" />
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("append").withParameters("java.lang.String").definedInClass("java.lang.StringBuilder"))]]></place>
+    </injection>
     <injection language="RegExp" injector-id="java">
       <display-name>StringSubject (com.google.common.truth)</display-name>
       <single-file value="true" />
