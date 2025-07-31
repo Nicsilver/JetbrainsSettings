@@ -44,6 +44,7 @@
   <action id="ActivateWebToolWindow" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="AutoIndentLines" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
@@ -129,7 +130,9 @@
     <keyboard-shortcut first-keystroke="ctrl dead_acute" />
     <keyboard-shortcut first-keystroke="ctrl #10000b4" />
   </action>
-  <action id="Inline" />
+  <action id="Inline">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+  </action>
   <action id="IntentionActionAsAction_org.jetbrains.kotlin.idea.codeInsight.intentions.shared.ChopArgumentListIntention">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
