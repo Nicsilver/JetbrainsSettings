@@ -1,6 +1,7 @@
 <application>
   <component name="DatabaseSettings" version="10">
-    <option name="page-size-updated-timestamp" value="1753796588857" />
+    <option name="page-size" value="100" />
+    <option name="page-size-updated-timestamp" value="1755256225654" />
     <option name="paging-display-mode" value="DATA_EDITOR_TOOLBAR" />
     <option name="prefetch-size" value="1000" />
     <text-mode>
