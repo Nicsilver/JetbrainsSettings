@@ -8,5 +8,6 @@
     <entry key="moved.to.new.ui" value="true" source="SYSTEM" />
     <entry key="ide.experimental.ui" value="true" source="SYSTEM" />
     <entry key="vcs.log.index.enable" value="true" source="SYSTEM" />
+    <entry key="kotlin.notebook.allow.attached.kernel" value="true" source="USER" />
   </component>
 </application>
