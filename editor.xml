@@ -21,6 +21,13 @@
       </map>
     </option>
   </component>
+  <component name="EditorSettings">
+    <option name="languageStickyLines">
+      <map>
+        <entry key="Jupyter" value="false" />
+      </map>
+    </option>
+  </component>
   <component name="InlineCompletionOnboarding">
     <option name="onboardingFinished" value="true" />
   </component>
