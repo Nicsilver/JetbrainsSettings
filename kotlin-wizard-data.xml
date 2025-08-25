@@ -1,6 +1,6 @@
 <application>
   <component name="KotlinLibrariesCompatibilityStore">
-    <option name="ideVersion" value="2025.1.3" />
+    <option name="ideVersion" value="2025.2" />
     <option name="libraries">
       <list>
         <KotlinLibraryCompatibilityEntry>
@@ -14,7 +14,8 @@
               <entry key="1.8" value="1.7.3" />
               <entry key="1.9" value="1.8.1" />
               <entry key="2.0" value="1.9.0" />
-              <entry key="2.1" value="1.9.0" />
+              <entry key="2.1" value="1.10.2" />
+              <entry key="2.2" value="1.10.2" />
             </map>
           </option>
         </KotlinLibraryCompatibilityEntry>
@@ -27,9 +28,10 @@
               <entry key="1.6" value="0.3.2" />
               <entry key="1.7" value="0.4.0" />
               <entry key="1.8" value="0.4.1" />
-              <entry key="1.9" value="0.6.1" />
-              <entry key="2.0" value="0.6.1" />
-              <entry key="2.1" value="0.6.1" />
+              <entry key="1.9" value="0.6.2" />
+              <entry key="2.0" value="0.6.2" />
+              <entry key="2.1" value="0.6.2" />
+              <entry key="2.2" value="0.6.2" />
             </map>
           </option>
         </KotlinLibraryCompatibilityEntry>
@@ -44,7 +46,8 @@
               <entry key="1.8" value="1.5.1" />
               <entry key="1.9" value="1.6.3" />
               <entry key="2.0" value="1.7.3" />
-              <entry key="2.1" value="1.7.3" />
+              <entry key="2.1" value="1.8.1" />
+              <entry key="2.2" value="1.8.1" />
             </map>
           </option>
         </KotlinLibraryCompatibilityEntry>
