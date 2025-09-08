@@ -78,6 +78,7 @@
   <action id="Console.TableResult.DeleteRows" />
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
+  <action id="Console.TableResult.SetNull" />
   <action id="ContextHelp" />
   <action id="DatabaseView.ForceRefresh" />
   <action id="Debug">

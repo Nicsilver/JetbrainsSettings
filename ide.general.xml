@@ -11,5 +11,6 @@
     <entry key="kotlin.notebook.allow.attached.kernel" value="true" source="USER" />
     <entry key="ide.images.show.chessboard" value="true" source="SYSTEM" />
     <entry key="jvm.dfa.analysis.ui.security.analysis.window.was.shown" value="true" source="SYSTEM" />
+    <entry key="ide.browser.jcef.sandbox.enable" value="false" source="USER" />
   </component>
 </application>
