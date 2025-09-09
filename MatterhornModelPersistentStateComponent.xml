@@ -1,6 +1,5 @@
 <application>
   <component name="MatterhornModelPersistentStateComponent">
     <option name="braveMode" value="true" />
-    <option name="speedMode" value="Quality" />
   </component>
 </application>
