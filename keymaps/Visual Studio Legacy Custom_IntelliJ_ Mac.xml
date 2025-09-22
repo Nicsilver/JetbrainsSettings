@@ -18,9 +18,6 @@
     <keyboard-shortcut first-keystroke="alt 0" />
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
-  <action id="ActivateCoverageToolWindow">
-    <keyboard-shortcut first-keystroke="ctrl less" />
-  </action>
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
