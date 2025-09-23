@@ -12,6 +12,5 @@
     <entry key="ide.images.show.chessboard" value="true" source="SYSTEM" />
     <entry key="jvm.dfa.analysis.ui.security.analysis.window.was.shown" value="true" source="SYSTEM" />
     <entry key="ide.browser.jcef.sandbox.enable" value="false" source="USER" />
-    <entry key="i18n.locale" value="en" source="SYSTEM" />
   </component>
 </application>
