@@ -188,6 +188,10 @@
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="NewScratchFile">
+    <keyboard-shortcut first-keystroke="shift ctrl alt insert" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt help" />
+  </action>
   <action id="NextOccurence">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
