@@ -107,6 +107,7 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
+  <action id="Generate" />
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
     <keyboard-shortcut first-keystroke="shift ctrl quote" />
@@ -191,6 +192,7 @@
   <action id="NewScratchFile">
     <keyboard-shortcut first-keystroke="shift ctrl alt insert" />
     <keyboard-shortcut first-keystroke="shift ctrl alt help" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="NextOccurence">
     <keyboard-shortcut first-keystroke="ctrl t" />
