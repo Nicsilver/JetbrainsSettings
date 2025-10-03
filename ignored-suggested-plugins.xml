@@ -6,6 +6,7 @@
         <option value="aws.toolkit" />
         <option value="com.intellij.bigdatatools.rfs" />
         <option value="com.intellij.kubernetes" />
+        <option value="dev.nx.console" />
       </list>
     </option>
   </component>
