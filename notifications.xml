@@ -4,5 +4,6 @@
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
     <notification groupId="Keymap" displayType="NONE" shouldLog="false" />
     <notification groupId="Vcs Important Messages" displayType="NONE" />
+    <notification groupId="Vcs Important Notifications" />
   </component>
 </application>
