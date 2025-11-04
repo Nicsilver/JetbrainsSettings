@@ -170,6 +170,7 @@
       <roots>
         <annotationsPath>
           <root type="composite">
+            <root url="jar://$USER_HOME$/Applications/IntelliJ IDEA Ultimate 2025.2.2.app/Contents/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
             <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
           </root>
         </annotationsPath>
