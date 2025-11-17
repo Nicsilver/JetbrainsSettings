@@ -203,9 +203,6 @@
     <keyboard-shortcut first-keystroke="ctrl dead_diaeresis" />
     <keyboard-shortcut first-keystroke="alt dead_diaeresis" />
   </action>
-  <action id="OpenInlineChatAction">
-    <keyboard-shortcut first-keystroke="shift ctrl g" />
-  </action>
   <action id="OptimizeImports" />
   <action id="Pause">
     <keyboard-shortcut first-keystroke="ctrl pause" />
@@ -299,6 +296,7 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
+  <action id="copilot.chat.inline" />
   <action id="copilot.cycleNextInlays">
     <keyboard-shortcut first-keystroke="alt close_bracket" />
   </action>
@@ -307,6 +305,9 @@
   </action>
   <action id="copilot.documentation">
     <keyboard-shortcut first-keystroke="shift ctrl f2" />
+  </action>
+  <action id="copilot.openCopilot">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
   <action id="org.martica.equality.Equalize">
     <keyboard-shortcut first-keystroke="shift ctrl #10000c5" />
