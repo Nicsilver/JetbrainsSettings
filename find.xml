@@ -16,5 +16,7 @@
     <mask>!*.jrxml</mask>
     <mask>*.jrxml</mask>
     <mask>*.sql</mask>
+    <mask>!CoreDatabaseService</mask>
+    <mask>!CoreDatabaseService.kt, !DatabaseService.kt</mask>
   </component>
 </application>
