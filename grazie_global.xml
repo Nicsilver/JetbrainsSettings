@@ -32,6 +32,7 @@
         <option name="disabled">
           <set>
             <option value="BRETON" />
+            <option value="ASTURIAN" />
           </set>
         </option>
       </State>
