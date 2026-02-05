@@ -77,6 +77,9 @@
   <action id="Console.TableResult.PreviousPage" />
   <action id="Console.TableResult.SetNull" />
   <action id="ContextHelp" />
+  <action id="CopyElement">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
   <action id="DatabaseView.ForceRefresh" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="alt f5" />
@@ -309,6 +312,8 @@
   <action id="copilot.documentation">
     <keyboard-shortcut first-keystroke="shift ctrl f2" />
   </action>
+  <action id="me.x150.intellijcodescreenshots.action.CopyScreenshotAction" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
   <action id="org.martica.equality.Equalize">
     <keyboard-shortcut first-keystroke="shift ctrl #10000c5" />
   </action>
