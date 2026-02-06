@@ -10,6 +10,9 @@
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="ActivateAIAssistantToolWindow">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="ActivateAntToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
