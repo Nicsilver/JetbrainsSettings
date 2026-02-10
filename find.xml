@@ -3,6 +3,7 @@
     <option name="customScope" value="Changes" />
     <option name="defaultScopeName" value="Changes" />
     <option name="SEARCH_SCOPE" value="Changes" />
+    <option name="FILE_MASK" value="!*.jrxml" />
     <mask>*.json</mask>
     <mask>.*.translation</mask>
     <mask>en.translation.json</mask>
@@ -13,10 +14,11 @@
     <mask>!*.js</mask>
     <mask>*poland.jrxml</mask>
     <mask>*poland*.jrxml</mask>
-    <mask>!*.jrxml</mask>
     <mask>*.jrxml</mask>
     <mask>*.sql</mask>
     <mask>!CoreDatabaseService</mask>
     <mask>!CoreDatabaseService.kt, !DatabaseService.kt</mask>
+    <mask>!*.jrxm</mask>
+    <mask>!*.jrxml</mask>
   </component>
 </application>
