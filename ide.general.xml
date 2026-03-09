@@ -15,5 +15,6 @@
     <entry key="maven.packagesearch.enabled" value="false" source="MANAGER" />
     <entry key="enable.connection.configuration.widget" value="false" source="SYSTEM" />
     <entry key="switched.from.classic.to.islands" value="false" source="SYSTEM" />
+    <entry key="i18n.locale" value="en" source="SYSTEM" />
   </component>
 </application>
