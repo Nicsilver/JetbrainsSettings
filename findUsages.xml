@@ -1,7 +1,7 @@
 <application>
   <component name="FindUsagesSettings">
-    <option name="customScope" value="Project 'Fullstack'" />
-    <option name="defaultScopeName" value="Project 'Fullstack'" />
-    <option name="SEARCH_SCOPE" value="Project 'Fullstack'" />
+    <option name="customScope" value="File '…/Webservices/libs/account-reports-dtos/src/main/java/com/brunata/webbill/accountreports/dtos/BuildingData.java'" />
+    <option name="defaultScopeName" value="File '…/Webservices/libs/account-reports-dtos/src/main/java/com/brunata/webbill/accountreports/dtos/BuildingData.java'" />
+    <option name="SEARCH_SCOPE" value="File '…/Webservices/libs/account-reports-dtos/src/main/java/com/brunata/webbill/accountreports/dtos/BuildingData.java'" />
   </component>
 </application>
