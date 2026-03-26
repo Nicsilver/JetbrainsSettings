@@ -7,6 +7,7 @@
         <option value="com.intellij.bigdatatools.rfs" />
         <option value="com.intellij.kubernetes" />
         <option value="dev.nx.console" />
+        <option value="com.intellij.spring" />
       </list>
     </option>
   </component>
