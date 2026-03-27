@@ -699,6 +699,7 @@
       <roots>
         <annotationsPath>
           <root type="composite">
+            <root url="jar://$USER_HOME$/Applications/IntelliJ IDEA 2026.1 Release Candidate.app/Contents/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
             <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
           </root>
         </annotationsPath>
