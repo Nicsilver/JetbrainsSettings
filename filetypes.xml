@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="19">
     <extensionMap>
+      <removed_mapping pattern=".springBeans" type="Eclipse" />
       <mapping pattern="mcp.json" type="JSON5" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
@@ -8,6 +9,8 @@
       <mapping ext="xlsx" type="Native" />
       <mapping pattern="file_example_MP4_1920_18MG.mp4" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
+      <removed_mapping pattern="spring.handlers" type="Properties" />
+      <removed_mapping pattern="spring.schemas" type="Properties" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="fnc" approved="true" type="SQL" />
       <removed_mapping ext="graphql" approved="true" type="GraphQL" />
