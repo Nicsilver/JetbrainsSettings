@@ -195,6 +195,9 @@
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="ctrl meta alt delete" />
+  </action>
   <action id="NewScratchFile">
     <keyboard-shortcut first-keystroke="shift ctrl alt insert" />
     <keyboard-shortcut first-keystroke="shift ctrl alt help" />
@@ -259,9 +262,13 @@
   <action id="ShowSearchHistory" />
   <action id="ShowUmlDiagram" />
   <action id="ShowUmlDiagramPopup" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl meta alt help" />
+  </action>
   <action id="SynchronizeCurrentFile">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
+  <action id="TW.SplitRight" />
   <action id="TabShiftActions.ShiftLeft">
     <keyboard-shortcut first-keystroke="ctrl #10000c6" />
   </action>
